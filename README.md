@@ -1,4 +1,4 @@
-::Frontend::
+**Frontend**
 
 Applied Javascript
 
@@ -12,7 +12,7 @@ Advanced State Management
 
 Advanced Web Applications
 
-::Backend::
+**Backend**
 
 Building RESTful APIs with Express
 
