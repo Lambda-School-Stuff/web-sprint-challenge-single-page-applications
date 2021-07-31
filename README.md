@@ -1,13 +1,23 @@
-~Frontend~
+::Frontend::
+
 Applied Javascript
+
 Intro to React
+
 Single Page Applications
+
 Advanced React
+
 Advanced State Management
+
 Advanced Web Applications
-~Backend~
+
+::Backend::
+
 Building RESTful APIs with Express
+
 Adding Data Persistence
+
 Authentication and Testing
 
 =====
